@@ -1646,7 +1646,7 @@ img {
 .faq-accordion-wrapper {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 13px;
 }
 
 /* Styling setiap item FAQ */
@@ -1705,7 +1705,7 @@ img {
   color: #475569;
   line-height: 1.6;
   margin: 18px 0 0 0;
-  font-size: clamp(0.81rem, 3.2vw, 0.95rem);
+  font-size: clamp(0.82rem, 3.2vw, 0.95rem);
 }
 
 .move-co {
